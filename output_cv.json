@@ -1,0 +1,126 @@
+{
+  "name": "keshavaniruddha",
+  "phoneNumber": "+91 – 8340712027",
+  "email": "keshavaniruddha456@gmail.com",
+  "linkedinProfile": null,
+  "githubProfile": null,
+  "experience": [
+    {
+      "company": "Livpure Smart Homes",
+      "role": "Business Analyst",
+      "duration": "4jul2023-Current",
+      "responsibilities": [
+        "Successfully drove a 66% expansion in the customer base and achieved a 107% increase in the top line.",
+        "Investor Management SPOC for WAAS, instrumental in raising funding for FY24-26.",
+        "Designed and implemented data visualization solutions across four DBMS platforms.",
+        "Facilitated transition of monthly plan subscribers to longer-term commitments.",
+        "Formulated customer-level profitability metrics and customer scoring system.",
+        "Decreased monthly churn rate by 0.67% through targeted retention efforts."
+      ]
+    },
+    {
+      "company": "Viacom18 Pvt. Ltd, Gurgaon",
+      "role": "Data Analyst",
+      "duration": "Apr2023 – May2023",
+      "responsibilities": [
+        "Worked on IPL advertisement management; coordinated with agencies/clients for payment, RO, and assets.",
+        "Evaluated and prepared data, reconcile ad data, and assist sales operations for data flow efficiency."
+      ]
+    },
+    {
+      "company": "Skill Circle, Delhi",
+      "role": null,
+      "duration": "June 2020-July 2020",
+      "responsibilities": [
+        "Collected data for market reports, achieved expected growth, and analyzed emerging technologies in Edu-Tech.",
+        "Evaluated market for future course growth and studied business models."
+      ]
+    },
+    {
+      "company": "HYPERX ENERGY Pvt. Ltd, New Delhi",
+      "role": null,
+      "duration": "June 2019 – July 2019",
+      "responsibilities": [
+        "Helped in chassis design using SolidWorks and component analysis with Ansys.",
+        "Correlated results with subsystem measurements to improve simulation accuracy."
+      ]
+    },
+    {
+      "company": "Ernst & Young LLP",
+      "role": "Data Researcher in Defense and Aerospace",
+      "duration": "Nov 2019 – Dec 2019",
+      "responsibilities": [
+        "Researched the global Military Market focusing on Neodymium Batteries, Military Engines, Transmission Systems.",
+        "Analyzed 40+ JV for key aspects related to Night Vision technology."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Technology, Delhi",
+      "degree": "B.Tech",
+      "duration": "2022",
+      "percentage": null,
+      "cgpa": null
+    },
+    {
+      "institution": "Rameshwar Prasad Yadav Sr. Sec. School",
+      "degree": "BSEB (XII)",
+      "duration": "2017",
+      "percentage": null,
+      "cgpa": null
+    },
+    {
+      "institution": "Manav Bharti National School",
+      "degree": "CBSE (X)",
+      "duration": "2015",
+      "percentage": null,
+      "cgpa": null
+    }
+  ],
+  "skillset": [
+    "SQL",
+    "PYTHON",
+    "MS Excel",
+    "MongoDB",
+    "Machine Learning",
+    "Unity 3D",
+    "Solid works"
+  ],
+  "pastOrganisations": [
+    "Livpure Smart Homes",
+    "Viacom18 Pvt. Ltd",
+    "Skill Circle",
+    "HYPERX ENERGY Pvt. Ltd",
+    "Ernst & Young LLP"
+  ],
+  "technicalSkills": [
+    "SQL",
+    "PYTHON",
+    "MS Excel",
+    "MongoDB",
+    "Machine Learning",
+    "Unity 3D",
+    "Solid works"
+  ],
+  "workExperience": [
+    "Business strategy and growth",
+    "Data analysis and visualization",
+    "Market research",
+    "Component analysis and simulation",
+    "Military market research"
+  ],
+  "projects": null,
+  "location": [
+    {
+      "firstline": null,
+      "city": null,
+      "pincode": null,
+      "district": null,
+      "state": null,
+      "country": null
+    }
+  ],
+  "institutionTier": "two",
+  "companyTier": null
+}
